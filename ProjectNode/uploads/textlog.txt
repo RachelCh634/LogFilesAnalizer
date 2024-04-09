@@ -1,0 +1,37 @@
+[2024-03-26 20:11:37.949] [example_logger] [info] Welcome to spdlog!
+[2024-03-26 20:11:37.950] [example_logger] [warning] Warning message
+[2024-03-26 20:11:37.950] [example_logger] [error] Error message
+[2024-03-26 20:15:41.564] [example_logger] [info] Welcome to spdlog!
+[2024-03-26 20:15:41.564] [example_logger] [warning] Warning message
+[2024-03-26 20:15:41.564] [example_logger] [error] Error message
+[2024-03-31 16:29:18.154] [example_logger] [info] Welcome to spdlog!
+[2024-03-31 16:29:18.154] [example_logger] [warning] Warning message
+[2024-03-31 16:29:18.154] [example_logger] [error] Error message
+[2024-03-31 16:30:02.445] [example_logger] [info] Welcome to spdlog!
+[2024-03-31 16:30:02.445] [example_logger] [warning] Warning message
+[2024-03-31 16:30:02.445] [example_logger] [error] Error message
+[2024-03-31 16:31:45.070] [My Logger] [info] Info from spdlog
+[2024-03-31 16:31:45.071] [My Logger] [warning] Warning message
+[2024-03-31 16:31:45.071] [My Logger] [error] Error message
+[2024-03-31 16:37:41.169] [My Logger] [info] Info from spdlog
+[2024-03-31 16:37:41.170] [My Logger] [warning] Warning message
+[2024-03-31 16:37:41.170] [My Logger] [error] Error message
+[2024-03-31 16:37:41.170] [My Logger] [info] This is an info message
+[2024-03-31 16:37:41.170] [My Logger] [warning] This is a warning message
+[2024-03-31 16:37:41.170] [My Logger] [error] This is an error message
+[2024-03-31 16:37:41.170] [My Logger] [critical] This is a critical message
+[2024-03-31 16:44:20.749] [My Logger] [info] Info from spdlog
+[2024-03-31 16:44:20.749] [My Logger] [warning] Warning message
+[2024-03-31 16:44:20.749] [My Logger] [error] Error message
+[2024-03-31 16:44:20.749] [My Logger] [info] This is an info message
+[2024-03-31 16:44:20.749] [My Logger] [warning] This is a warning message
+[2024-03-31 16:44:20.749] [My Logger] [error] This is an error message
+[2024-03-31 16:44:20.749] [My Logger] [critical] This is a critical message
+[2024-04-01 09:06:11.389] [My Logger] [info] This is an info message
+[2024-04-01 09:06:11.389] [My Logger] [warning] This is a warning message
+[2024-04-01 09:06:11.389] [My Logger] [error] This is an error message
+[2024-04-01 09:06:11.389] [My Logger] [critical] This is a critical message
+[2024-04-01 09:37:18.438] [My Logger] [info] This is an info message
+[2024-04-01 09:37:18.438] [My Logger] [warning] This is a warning message
+[2024-04-01 09:37:18.438] [My Logger] [error] This is an error message
+[2024-04-01 09:37:18.438] [My Logger] [critical] This is a critical message
